@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xmanga-eth
 - 👀 I’m interested in Manga and Blockchain technologies.
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently learning Cairo.
 - 💞️ I’m looking to collaborate on NFT projects.
 - 📫 How to reach me 0xmanga.crypto@gmail.com
 
